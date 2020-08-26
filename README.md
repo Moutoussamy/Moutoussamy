@@ -7,9 +7,6 @@ Most of the code that you will find on this Github are useful tools to analyse/p
 #### Programming Languages:
 <img align="left" alt="moutoussamy | python" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
 <img align="left" alt="moutoussamy | R" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rstudio.svg" />
-<img align="left" alt="moutoussamy | Perl" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/perl.svg" />
-<img align="left" alt="moutoussamy | java" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
-
 <br />
 <br />
 <br />
