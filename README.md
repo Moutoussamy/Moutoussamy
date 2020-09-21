@@ -4,8 +4,6 @@ I am a Ph.D. student in the [Reuter group](https://www.cbu.uib.no/reuter/), Comp
 Most of the code that you will find on this Github are useful tools to analyse/perform molecular dynamic simulations. They are mainly written in Python or R
 .
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Moutoussamy&show_icons=true)
-
 #### Programming Languages:
 <img align="left" alt="moutoussamy | python" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
 <img align="left" alt="moutoussamy | R" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rstudio.svg" />
