@@ -1,8 +1,6 @@
 ### Emmanuel E. Moutoussamy, Ph.D. student at the University of Bergen (UiB), Norway 🇳🇴 
 
 I am a Ph.D. student in the [Reuter group](https://www.cbu.uib.no/reuter/), Computational Biology Unit ([CBU](https://www.cbu.uib.no)).
-Most of the code that you will find on this Github are useful tools to analyse/perform molecular dynamic simulations. They are mainly written in Python or R
-.
 
 #### Programming Languages:
 <img align="left" alt="moutoussamy | python" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
