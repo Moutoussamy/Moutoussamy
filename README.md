@@ -6,6 +6,7 @@ I am a Ph.D. student in the [Reuter group](https://www.cbu.uib.no/reuter/), Comp
 #### Programming Languages:
 <img align="left" alt="moutoussamy | python" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
 <img align="left" alt="moutoussamy | R" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rstudio.svg" />
+<img align="left" alt="moutoussamy | R" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jupyter.svg" />
 <br />
 <br />
 
