@@ -9,7 +9,7 @@ I am a Ph.D. student in the [Reuter group](https://www.cbu.uib.no/reuter/), Comp
 <br />
 
 #### Connect with me:
-![[Twitter Follow](https://img.shields.io/twitter/follow/e_moutoussamy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fe_moutoussamy&screen_name=e_moutoussamy)
+![Twitter Follow](https://img.shields.io/twitter/follow/e_moutoussamy?color=1DA1F2&logo=twitter&style=for-the-badge)(https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fe_moutoussamy&screen_name=e_moutoussamy)
 
 <br />
 <br />
