@@ -6,7 +6,6 @@ I am a Ph.D. student in the [Reuter group](https://www.cbu.uib.no/reuter/), Comp
 <img align="left" alt="moutoussamy | python" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
 <img align="left" alt="moutoussamy | R" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rstudio.svg" />
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Moutoussamy&show_icons=true)
 
 #### Connect with me:
 ![Twitter Follow](https://img.shields.io/twitter/follow/e_moutoussamy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fe_moutoussamy&screen_name=e_moutoussamy)
@@ -16,4 +15,6 @@ I am a Ph.D. student in the [Reuter group](https://www.cbu.uib.no/reuter/), Comp
 [<img align="left" alt="moutoussamy | java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />](https://www.researchgate.net/profile/Emmanuel_Moutoussamy)
 <br />
 <br />
+
+![github stats](https://github-readme-stats.vercel.app/api?username=Moutoussamy&show_icons=true)
 
