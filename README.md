@@ -1,6 +1,8 @@
 ### Emmanuel E. Moutoussamy, Ph.D. student at the University of Bergen (UiB), Norway 🇳🇴 
 
 I am a Ph.D. student in the [Reuter group](https://www.cbu.uib.no/reuter/), Computational Biology Unit ([CBU](https://www.cbu.uib.no)).
+
+#### Github Stats:
 ![github stats](https://github-readme-stats.vercel.app/api?username=Moutoussamy&show_icons=true)
 
 <img align="left" alt="moutoussamy | python" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
@@ -17,7 +19,5 @@ I am a Ph.D. student in the [Reuter group](https://www.cbu.uib.no/reuter/), Comp
 
 [<img align="left" alt="moutoussamy | java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />](https://www.researchgate.net/profile/Emmanuel_Moutoussamy)
 
-<br />
-<br />
 
 
