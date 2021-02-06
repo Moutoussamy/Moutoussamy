@@ -1,6 +1,7 @@
 ### Emmanuel E. Moutoussamy, Ph.D. student at the University of Bergen (UiB), Norway 🇳🇴 
 
-I am a Ph.D. student in the [Reuter group](https://www.cbu.uib.no/reuter/), Computational Biology Unit ([CBU](https://www.cbu.uib.no)).
+### ABOUT ME
+Ph.D. candidate with a strong interest in data mining. Fascinated by new technologies, I did a master’s degree in computational sciences, where I acquired knowledge on large data analysis, programming (Python, R, C, Java, SQL & Perl) and modelling. Today, I am using those tools to model, simulate and analyse data of 3D molecular objects
 
 #### Github Stats:
 ![github stats](https://github-readme-stats.vercel.app/api?username=Moutoussamy&show_icons=true)
