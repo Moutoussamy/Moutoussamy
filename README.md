@@ -1,8 +1,5 @@
 ### Emmanuel E. Moutoussamy, Ph.D.
 
-### ABOUT ME
-I am a Ph.D. candidate with a strong interest in data mining and a passion for new technologies. After completing my master’s degree in computational sciences, I gained extensive experience in large data analysis, programming (Python, R, C, Java, SQL & Perl), and modeling. Currently, I am using these tools to model, simulate, and analyze data related to 3D molecular objects.
-
 #### GitHub Stats:
 ![github stats](https://github-readme-stats.vercel.app/api?username=Moutoussamy&show_icons=true)
 
